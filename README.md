@@ -1,0 +1,2 @@
+# LoopTransformations
+This project demonstrates various loop transformation techniques to improve loop performance. Loop transformation takes the advantage of data locality and spatial locality. The performance improvement is platform dependent. Certain programming languages support row major access and others provide column major access, in which case the performance may degrade. The following program is wriiten in C which supports row major access.
